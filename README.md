@@ -14,3 +14,8 @@ The following projects were used:
   - 3proxy (https://github.com/z3APA3A/3proxy)
   - Telegram MTProto proxy
   - Some my scripts.
+
+---
+
+The license concerns only my scripts. 
+The rights of used applications and licenses under which they are issued remain unchanged.
